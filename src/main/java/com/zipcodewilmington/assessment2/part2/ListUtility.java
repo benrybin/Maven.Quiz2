@@ -4,6 +4,8 @@ import java.util.List;
 
 public class ListUtility {
     public Boolean add(int i) {
+
+
         return null;
     }
 
@@ -24,6 +26,8 @@ public class ListUtility {
     }
 
     public Boolean contains(Integer valueToAdd) {
+
+
         return null;
     }
 }
